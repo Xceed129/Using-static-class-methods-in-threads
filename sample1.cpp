@@ -6,9 +6,9 @@ class Task1{
   public:
 	  static int execute(std::string command1, std::string command2){
 
-		  std::cout << command1 << " " << command2 << std::endl;
+		std::cout << command1 << " " << command2 << std::endl;
 
-      return 0;
+		return 0;
 	  }
 
 };
